@@ -298,7 +298,7 @@ If you have a University of Helsinki user account, you can find your student num
 
 #### B) Enrollment confirmation email
 
-After course enrollment, you will receive a confirmation email to an email address you have entered on the enrollment form. This message either directly has your student number on it or includes a link that takes you to a page displaying your University of Helsinki student number. 
+After course enrollment, you will receive a confirmation email to the email address you have entered on the enrollment form. This message either directly has your student number on it or includes a link that takes you to a page displaying your University of Helsinki student number. 
 
 #### C) Contact Student Services
 
